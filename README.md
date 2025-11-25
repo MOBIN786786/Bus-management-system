@@ -5,7 +5,8 @@ This Bus Management System provides an online platform for managing daily bus op
 It enables admins to manage buses, routes, drivers, schedules, and bookings, while users can view schedules and book seats easily.
 
 Features:
-          Admin Features: 
+          
+Admin Features: 
       >> Add, update, and delete buses
       >> Add and manage routes
       >> Manage drivers and staff
