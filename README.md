@@ -23,7 +23,9 @@ User Features:
  ->Cancel booking
 
 Project Structure:
+
 /BusManagementSystem
+
 │── /src
 │   ├── controller        (Servlets)
 │   ├── dao               (Database logic)
