@@ -3,6 +3,7 @@ A complete web-based Bus Management System designed to manage bus routes, schedu
 This project is built using Java (Servlets/JSP), JDBC, and MySQL, following MVC architecture for clean and maintainable code.
 This Bus Management System provides an online platform for managing daily bus operations.
 It enables admins to manage buses, routes, drivers, schedules, and bookings, while users can view schedules and book seats easily.
+
 Features:
           Admin Features: 
       >> Add, update, and delete buses
@@ -11,6 +12,7 @@ Features:
       >> Create and update bus schedules
       >> View all bookings
       >> Generate reports
+
 User Features: 
  ->User registration & login
  ->View available buses and routes
@@ -18,6 +20,7 @@ User Features:
  ->Book seats online
  ->heck booking status
  ->Cancel booking
+
 Project Structure:
 /BusManagementSystem
 │── /src
