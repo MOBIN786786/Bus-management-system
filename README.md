@@ -14,12 +14,12 @@ Features:
       >> Generate reports
 
 User Features: 
-.User registration & login
- .View available buses and routes
- .Search buses by source & destination
- .Book seats online
- .Check booking status
- .Cancel booking
+ ->User registration & login
+ ->View available buses and routes
+ ->Search buses by source & destination
+ ->Book seats online
+ ->heck booking status
+ ->Cancel booking
 
 Project Structure:
 
