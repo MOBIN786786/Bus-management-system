@@ -33,3 +33,4 @@ Project Structure:
 │   ├── /assets (CSS, JS, images)
 │── database.sql
 │── README.md
+
